@@ -14,3 +14,6 @@ cargo build --release
 You may need to manually copy the logo file (Sober_logo.png) into the appropriate output directory, or replace it with your own.
 
     Note: You must have cargo and rustc installed to build or run the app.
+
+
+Unfortunately, youll have to remake the cookies when roblox changes your cookie...
